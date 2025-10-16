@@ -1,0 +1,23 @@
+# Compiled files
+*.o
+*.obj
+
+# Visual Studio files
+.vs/
+*.vcxproj*
+*.sln
+Debug/
+Release/
+x64/
+x86/
+
+# IDE files
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+
+# Temporary files
+*.tmp
+*~
