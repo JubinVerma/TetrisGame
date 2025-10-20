@@ -1,7 +1,4 @@
 // COMPLETE TETRIS GAME - VISUAL STUDIO COMMUNITY
-// Just paste this entire code into your .cpp file and press Ctrl+F5 to run!
-// No other files needed - everything is included here
-
 #include <iostream>
 #include <vector>
 #include <cstdlib>
